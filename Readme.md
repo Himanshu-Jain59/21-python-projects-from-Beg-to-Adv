@@ -19,3 +19,9 @@ Play Rock Paper Scissors vs Computer in your terminal.
 ## Project 4 - Survival Game (Easy)
 
 Choose from different options to survive.
+
+## Project 5 - Password Manager (Hard)
+
+Used cryptography module to encrypt uaer password before saving.
+
+## Project 6 - PIG (Game) (Medium)
