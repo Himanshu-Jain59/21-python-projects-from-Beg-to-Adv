@@ -10,7 +10,7 @@ Simple terminal based quiz on anime category.
 
 ## Project 2 - Number Guesser (Easy)
 
-Generates a number and tracks how many times it take suser to guess it.
+Generates a number and tracks how many times it takes user to guess it.
 
 ## Project 3 - Rock Paper Scissors (Easy)
 
@@ -20,7 +20,7 @@ Play Rock Paper Scissors vs Computer in your terminal.
 
 Choose from different options to survive.
 
-## Project 5 - Password Manager (Hard)
+## Project 5 - Password Manager (Medium)
 
 Used cryptography module to encrypt user password before saving.
 
@@ -36,3 +36,7 @@ The generator works by storing a story template, collecting inputs, and insertin
 ## Project 8 - Speed Maths (Medium)
 
 Solve simple mathematical expressions as fast as you can. It generates random two operand expressions and also tracks how much time it took you to solve all questions.
+
+## Project 9 - Slot-Machine (Medium)
+
+Python slot machine game where users deposit money, choose betting lines, spin random symbols, and win based on matching rows. Balance updates after each round until the player quits or runs out.
