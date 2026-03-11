@@ -40,3 +40,7 @@ Solve simple mathematical expressions as fast as you can. It generates random tw
 ## Project 9 - Slot-Machine (Medium)
 
 Python slot machine game where users deposit money, choose betting lines, spin random symbols, and win based on matching rows. Balance updates after each round until the player quits or runs out.
+
+## Project 10 - Turtle Racing (Medium)
+
+This Python program creates a turtle racing game using Python Turtle Graphics. The user enters the number of racers, a screen is created, turtles with different colors are placed at the start, and they move randomly forward. The turtles race across the screen, and the first turtle to reach the finish line wins.
