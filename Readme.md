@@ -52,3 +52,7 @@ This Python program creates a terminal typing test using the Python curses libra
 ## Project 12 - Alarm Clock (Easy)
 
 This Python program creates a countdown timer using time and pygame. It counts seconds, updates remaining time on screen, and plays an alarm sound when the countdown finishes.
+
+## Project 13 - Password Generator (Easy)
+
+This Python program generates a random secure password based on user preferences. It asks for minimum length, optional numbers, and special characters, then builds a password ensuring the required criteria are satisfied
