@@ -45,6 +45,10 @@ Python slot machine game where users deposit money, choose betting lines, spin r
 
 This Python program creates a turtle racing game using Python Turtle Graphics. The user enters the number of racers, a screen is created, turtles with different colors are placed at the start, and they move randomly forward. The turtles race across the screen, and the first turtle to reach the finish line wins.
 
-## Project 11 - Typin Test (Medium)
+## Project 11 - Typing Test (Medium)
 
 This Python program creates a terminal typing test using the Python curses library. It loads random text, tracks user input, highlights correct or incorrect characters, calculates WPM based on time, and allows restarting tests until the user presses Escape.
+
+## Project 12 - Alarm Clock (Easy)
+
+This Python program creates a countdown timer using time and pygame. It counts seconds, updates remaining time on screen, and plays an alarm sound when the countdown finishes.
