@@ -56,3 +56,7 @@ This Python program creates a countdown timer using time and pygame. It counts s
 ## Project 13 - Password Generator (Easy)
 
 This Python program generates a random secure password based on user preferences. It asks for minimum length, optional numbers, and special characters, then builds a password ensuring the required criteria are satisfied
+
+## Project 14 - Path Finder (Medium)
+
+This Python program finds a solution for a maze . It uses Queue data structure and breadth first search (BFS) algorithm. It uses curses module for interactive terminal and different color outputs.
