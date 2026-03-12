@@ -44,3 +44,7 @@ Python slot machine game where users deposit money, choose betting lines, spin r
 ## Project 10 - Turtle Racing (Medium)
 
 This Python program creates a turtle racing game using Python Turtle Graphics. The user enters the number of racers, a screen is created, turtles with different colors are placed at the start, and they move randomly forward. The turtles race across the screen, and the first turtle to reach the finish line wins.
+
+## Project 11 - Typin Test (Medium)
+
+This Python program creates a terminal typing test using the Python curses library. It loads random text, tracks user input, highlights correct or incorrect characters, calculates WPM based on time, and allows restarting tests until the user presses Escape.
