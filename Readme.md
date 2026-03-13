@@ -72,3 +72,7 @@ A currency converter that uses an online API to fetch real-time exchange rates. 
 ## Project 17 - YouTube Downloader (Medium)
 
 This Python program let's u download youtube videos.
+
+## Project 18 - Auto Backup (Medium)
+
+Python program to automate backup. It schedules backup from a source location to destination at a paricular time for every day.
