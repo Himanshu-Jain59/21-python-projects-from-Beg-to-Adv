@@ -60,3 +60,7 @@ This Python program generates a random secure password based on user preferences
 ## Project 14 - Path Finder (Medium)
 
 This Python program finds a solution for a maze . It uses Queue data structure and breadth first search (BFS) algorithm. It uses curses module for interactive terminal and different color outputs.
+
+## Project 15 - NBA Player Details (Medium)
+
+This Python program provides details of NBA player you search for. It uses a NBA api to get these details. Enter the player name and get his details simple.
