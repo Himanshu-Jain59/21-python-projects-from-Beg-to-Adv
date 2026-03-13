@@ -64,3 +64,7 @@ This Python program finds a solution for a maze . It uses Queue data structure a
 ## Project 15 - NBA Player Details (Medium)
 
 This Python program provides details of NBA player you search for. It uses a NBA api to get these details. Enter the player name and get his details simple.
+
+## Project 16 - Currency Convertor (Medium)
+
+A currency converter that uses an online API to fetch real-time exchange rates. The user enters base currency, target currency, and amount. The program retrieves the rate and calculates the converted value.
