@@ -68,3 +68,7 @@ This Python program provides details of NBA player you search for. It uses a NBA
 ## Project 16 - Currency Convertor (Medium)
 
 A currency converter that uses an online API to fetch real-time exchange rates. The user enters base currency, target currency, and amount. The program retrieves the rate and calculates the converted value.
+
+## Project 17 - YouTube Downloader (Medium)
+
+This Python program let's u download youtube videos.
