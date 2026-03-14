@@ -76,3 +76,7 @@ This Python program let's u download youtube videos.
 ## Project 18 - Auto Backup (Medium)
 
 Python program to automate backup. It schedules backup from a source location to destination at a paricular time for every day.
+
+## Project 19 - Mastermind (Advanced)
+
+This Python program implements the Mastermind game. It generates a random color code using random, then lets the player guess the code within limited attempts. The program checks each guess for correct colors and positions, provides feedback, and continues until the code is guessed or attempts run out, ending the game.
