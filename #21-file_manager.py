@@ -4,6 +4,7 @@ import hashlib
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import time
+from tkinter import filedialog
 
 FILE_TYPES = {
     "Images": [".jpg", ".png", ".jpeg", ".gif"],
@@ -142,9 +143,16 @@ def process_existing_files(folder):
             except PermissionError:
                 print("File locked, skipping:", file_path)
 
+def open_file_dialog():
+    folder = filedialog.askdirectory()
+    if folder:
+        print(f"selected folder: {folder}")
+
+    return folder
+
 if __name__ == "__main__":
 
-    folder_to_watch = "test_21"
+    folder_to_watch = open_file_dialog()
 
     if not os.path.exists(folder_to_watch):
         os.makedirs(folder_to_watch)
