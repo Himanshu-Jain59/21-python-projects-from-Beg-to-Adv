@@ -80,3 +80,11 @@ Python program to automate backup. It schedules backup from a source location to
 ## Project 19 - Mastermind (Advanced)
 
 This Python program implements the Mastermind game. It generates a random color code using random, then lets the player guess the code within limited attempts. The program checks each guess for correct colors and positions, provides feedback, and continues until the code is guessed or attempts run out, ending the game.
+
+## Project 2o - Aim trainer (Advanced)
+
+A GUI based aiming game. It generates multiple targets using pygame module. Click on targets to get points. If user miss a target it loses one life. When all life are used ,the game overs.
+
+## Project 21 - File Organizer (Advanced)
+
+A Smart File Organizer is a Python program that automatically monitors a folder and organizes files into different folders based on file type or date. It can also detect duplicate files and create backups.
